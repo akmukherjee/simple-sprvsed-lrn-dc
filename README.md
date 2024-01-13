@@ -1,5 +1,4 @@
 
-
 # Project Overview
 Welcome to this concise yet enlightening project developed on DataCamp, focusing on the realm of Supervised Machine Learning.
 
